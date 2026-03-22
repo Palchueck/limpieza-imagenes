@@ -1,0 +1,9 @@
+# Ignorar todo por defecto
+*
+
+# Permitir solo imágenes
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.svg
